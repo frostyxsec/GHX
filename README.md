@@ -68,22 +68,6 @@ To use this extension, you need to set up the **Google Custom Search API** and o
 
 ---
 
-## 📸 Screenshots
-
-> **Popup in dark mode** with red-stroke buttons and sample results:
->
-> *(Add a screenshot of the popup here for visual reference.)*
-
----
-
-## ⚠️ Limitations
-
-- Maximum of **100 results per query** due to API limitations.
-- Results may differ slightly from standard Google search results.
-- Requires an **active internet connection** to fetch results.
-
----
-
 ## ✅ You're all set!
 
 Your Google Dorking Extension should now be fully functional with the Google Custom Search API.
