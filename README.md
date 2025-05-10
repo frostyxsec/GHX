@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/frostyxsec/GHX/refs/heads/main/demo.gif">
 <br>
-# GHX
+## GHX
 
 A Chrome extension designed to perform Google Dorking, automatically load search results, and save them to a TXT file. Created by frostynxth, this extension features a dark mode interface with red-stroke buttons for a sleek user experience.
 
